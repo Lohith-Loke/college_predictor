@@ -13,6 +13,6 @@ given this details what are the things that need to be taken to consideration if
 we were to build a model that predicts next year's closing rank 
 
 
-### total number of students that took exam in every year 
-### how to reputation score of a college ie college that more student's wish to go to 
+### total number of students that took exam in every year  # from jee website 
+### how to reputation score of a college ie college that more student's wish to go to  # based on NIRF ranking? 
 ### course popularity , number that tells intrested candidates are in said courese 
